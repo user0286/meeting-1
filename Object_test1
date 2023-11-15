@@ -1,0 +1,23 @@
+var myData = {
+  name:"use0286",
+  age:1083,
+  maiden:0,
+  
+
+};
+
+console.log(myData['name'])
+console.log(myData['age'])
+console.log(myData['maiden'])
+
+var myData = {
+  name:"malabulu",
+  age:1083,
+  maiden:0,
+  
+
+};
+
+console.log(myData.name)
+console.log(myData.age)
+console.log(myData.maiden)
